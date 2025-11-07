@@ -1,0 +1,1 @@
+"# firebase-custom-token-server" 
